@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "848231477663",
+    "project_id": "chittchore---fsm",
+    "storage_bucket": "chittchore---fsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848231477663:android:d664723380eea2281e4daa",
+        "android_client_info": {
+          "package_name": "com.chittchorefsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848231477663-cggconruhmd44avdab6gopct9ad3eqa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MxYdfPUyr5bHU7TZ_x4w_VHeB_A4glM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848231477663-cggconruhmd44avdab6gopct9ad3eqa0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
